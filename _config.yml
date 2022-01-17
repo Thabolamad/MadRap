@@ -5,7 +5,7 @@ menu:
   Tags: /tags
   Categories: /categories
   Github:
-    url: https://github.com/klugjo/hexo-theme-clean-blog
+    url: https://thabolamad.github.io
     icon: github
 
 # Title on top left of menu. Leave empty to use main blog title
@@ -40,7 +40,12 @@ favicon:
 twitter_url:
 twitter_handle:
 facebook_url:
-github_url: https://github.com/klugjo/hexo-theme-clean-blog
+github_url: https://thabolamad.github.io
 gitlab_url:
 linkedin_url:
 mailto:
+
+# Extensions
+## Plugins: http://hexo.io/plugins/
+## Themes: http://hexo.io/themes/
+theme: clean-blog
